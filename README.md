@@ -64,8 +64,7 @@ I enjoy mentoring, solving complex problems, and exploring the power of **AI**, 
 
 - Advanced **Cloud Deployment** and **CI/CD**  
 - AI integrations in full-stack apps (NLP, ML APIs)  
-- **Next.js** and scalable architecture patterns  
-
+- **Next.js** and scalable architecture patterns 
 ---
 
 ## 👥 Community & Mentorship
